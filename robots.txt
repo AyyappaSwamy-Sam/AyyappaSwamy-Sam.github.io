@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayyappaswamy-sam.github.io/sitemap.xml
